@@ -4,7 +4,7 @@
 let count= parseInt(prompt("Студенттер санын енгізіңіз:"));
 
 
-let student = 0; //қөге тең
+let student = 0; //нөлге тең
 let i = 1;
 
 
