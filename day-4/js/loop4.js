@@ -1,7 +1,7 @@
 let integer = +prompt("1-ден бастап кез-келген санға дейінгі цифрды енгізіңіз")
     let min = null;
     let max = null;
-    let i = 0;
+    
   
     
     for(  let i = 0; i <= integer; i++) {
